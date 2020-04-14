@@ -2,6 +2,9 @@
   "name": "Bean Juice website",
   "description": "Bean Juice home page",
   "version": "1.0.0",
+  "engines": {
+    "node": "13.8.0"
+  },
   "author": "Iiro Alhonen",
   "dependencies": {
     "gatsby": "^2.19.5",
