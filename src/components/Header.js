@@ -4,13 +4,13 @@ import React from 'react'
 const Header = props => (
   <header id="header" style={props.timeout ? { display: 'none' } : {}}>
     <div className="logo">
-      <span className="icon fa-diamond"></span>
+      <span className="icon fa-coffee"></span>
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Nifty Tree Studios</h1>
+        <h1>Bean Juice</h1>
         <p>
-          We build iOS apps and consult in UX design and iOS development.
+          Coffee brewing app made by Nifty Tree Studios.
         </p>
       </div>
     </div>
@@ -25,14 +25,26 @@ const Header = props => (
             Bean Juice
           </button>
         </li>
-        
+        <li>
+          <button>
+            <a
+              href="https://www.twitter.com">
+              AppStore
+            </a>
+          </button>
+        </li>
         <li>
           <button
-            onClick={() => {
-              props.onOpenArticle('contact')
-            }}
           >
-            Contact
+            Google Play (coming soon)
+          </button>
+        </li>
+        <li>
+          <button>
+            <a href="MAILTO:contact@niftytreestudios.com?Subject=Bean%20Juice%20Contact%20reguest"
+            target="_top">
+              Contact Us
+            </a>
           </button>
         </li>
       </ul>
