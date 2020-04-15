@@ -29,7 +29,7 @@ const Header = props => (
           <button>
             <a
               href="https://www.twitter.com">
-              AppStore
+              AppStore (coming soon)
             </a>
           </button>
         </li>
