@@ -41,7 +41,7 @@ const Header = props => (
         </li>
         <li>
           <button>
-            <a href="MAILTO:contact@niftytreestudios.com?Subject=Bean%20Juice%20Contact%20reguest"
+            <a href="MAILTO:contact@niftytreestudios.com?Subject=Bean%20Juice%20Contact%20request"
             target="_top">
               Contact Us
             </a>
