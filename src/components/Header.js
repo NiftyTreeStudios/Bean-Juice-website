@@ -10,7 +10,7 @@ const Header = props => (
       <div className="inner">
         <h1>Bean Juice</h1>
         <p>
-          Coffee brewing app made by Nifty Tree Studios.
+          Coffee brewing app made by Nifty Tree Studios
         </p>
       </div>
     </div>
