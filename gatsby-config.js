@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Bean Juice website',
+    title: 'Bean Juice',
     author: 'Iiro Alhonen',
     description: 'Bean Juice home page',
   },
