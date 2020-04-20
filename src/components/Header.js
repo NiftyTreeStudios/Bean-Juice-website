@@ -27,7 +27,7 @@ const Header = props => (
         </li>
         <li>
           <button>
-              <a href="https://apps.apple.com/us/app/bean-juice/id1502380351">AppStore</a>
+              <a href="https://apps.apple.com/us/app/bean-juice/id1502380351">App Store</a>
           </button>
         </li>
         <li>
